@@ -35,5 +35,5 @@ I moved completely to Quaver (Some time around March 2021 I think) and from ther
 
 ###Rhythm Game Links:
 [osu! Website](osu.ppy.sh)
-[url=quavergame.com]Quaver Website[/url]
-[url=store.steampowered.com/app/980610/Quaver/]Quaver Steam Page[/url]
+[Quaver Website](quavergame.com)
+[Quaver Steam Page](store.steampowered.com/app/980610/Quaver/)
