@@ -33,7 +33,7 @@ I started osu!Std/Mania when I first got a laptop (Jan 25, 2020) and found Quave
 ##Quaver!
 I moved completely to Quaver (Some time around March 2021 I think) and from there learned patterns and improved my max bpm/nps limit to handle Handstreams and Jack Chords (as of typing this I can do 18nps Handstreams at 200bpm, beat 25-30 diff rating with ease but struggle with 30-35dr, my Top play is 176 - ikazuchi [Ute!] 98.88% 31.04pr) when returning to osu! offline I got 300pp plays and could easily beat 5* maps.
 
-[h3]Rhythm Game Links:[/h3]
-[url=osu.ppy.sh]osu! Website[/url]
+###Rhythm Game Links:
+[osu! Website](osu.ppy.sh)
 [url=quavergame.com]Quaver Website[/url]
 [url=store.steampowered.com/app/980610/Quaver/]Quaver Steam Page[/url]
