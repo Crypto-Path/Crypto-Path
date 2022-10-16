@@ -1,5 +1,11 @@
- - I go by: Crypto-Path, Schiytu37, Cyphe Mercury
-   - C
+ - I go by:
+   - Crypto-Path - My developer name
+   - Schiytu37 - My known name
+   - Cyphe Mercury - My personal name (not real name... yet \*emoji-smirk\*)
+ - Coding Languages I use/maybe somewhat know:
+   - HTML/JS/CSS - I use this the most but still have a lot to learn in server-side js and css
+   - C:
+     - C#
 
 <!--
 **Crypto-Path/Crypto-Path** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
