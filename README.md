@@ -19,6 +19,18 @@
 
 # History
 I'mma just make this my about my life page ig but heyyyyyyy I'm actually bored enough to do it, your fault for reading it.
+ - # My Engine History:
+
+  - Scratch
+   - Although I still return to scratch to mess around this is where I start learning the basics of coding and how everything works. I learnt how to use variables, different metheds to change them, and how math and programming work together. I returned to this a few time to get a better understanding of things or to easily test out ideas before I waste days attempting to implement it into a program I'm making. I primarily used this when I was in middle school and reffined to a school chromebook and didn't have my own laptop at the time.
+
+  - Game Maker Studio 2
+   - I start looking for a game engine and had originally got Unity but my brain hurt trying to do anything so I gave up and started looking for a new engine and found this. I made some of my first (questionably) "games" as one *might* call them. I still didn't and probably still don't know how to make a game look decent in world design and other things. I started my main project Morania the 2D Open World MMORPG, but it wasn't looking like I envisioned it and it was missing the MMO element so I scrapped it and stopped using GMS2 for large game plans. When I want to test out semi-more complex ideas instead of scratch I use this.
+
+  - Unity
+   - After giving up with Game Maker Studio 2 I tried this again and this time wasn't going to give up until I figured it out (took me about nonstop 30hours...) With that knoledge I could finally create a c# file and add it to a object yes that's all I learnt after ~30hours... I was having some problems... With my brain perhaps. M larger projects cam from this where I really wanted to add as much as possible and was also finally having fun programming but never actually finished any project unfortunateyl. Attempted to make a 4k rhythm games (Loadable maps, saved scores(broken), playable, barebone graphics). Attempted to make a 2d gravity and planets sandbox game (got really far almost done but error started coming in like dhadsklsdakf, Inventory system, planets and if planets are close enough you can jump from one another, clicking rocks or trees or other resources will destroy them and drop the collectable version, auto generated planets (kinda broken as it just spawned a planet at a random possition around the player every so long)). Attempted a magic creation rpg (Inventory system messed me up and made me give up, Ability to create a custom spell that based on the elements used it uses a certain amount of mana only increasable with equipment or levels).
+  
+  
  - # My Rhythm Game History:
 
   - Piano Tiles
