@@ -16,7 +16,7 @@
 The boxes are just if I'm working on them or worked on it until a playable state with all the main features
  + [ ] Morania `// A 2d top down open world mmorpg with a dark souls like combat system`
    + [ ] Project Noroi `// A extension of Morania where players can create their own custom (Very customizable) magic spells that can be customized however the player wants. Did I mention that the spells can be very customizable.`
- + [x] Prosody `// A 4k web rhythm that other can upload maps to and have accounts similar to osu!mania`
+ + [x] [Prosody](https://github.com/Crypto-Path/Aria-Engine-Prosody) `// A 4k web rhythm that other can upload maps to and have accounts similar to osu!mania`
    + [ ] Aria Engine `// Eventually after I finish prosody || A game engine type thing allowing others to make web rhythm games`
  + [ ] Project Experience `// A whole group of projets that (most) link together`
    + [ ] Incremental `// A game heavily inspired by Epic Hero Incrememnt`
