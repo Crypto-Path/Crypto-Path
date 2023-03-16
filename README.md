@@ -6,7 +6,7 @@
 
 ## How to contact me:
  + Discord: Cyphe Mercury#9288 `// Please feel free to contact me whenever I'd be happy to chat`
- + Email: cyphemercury@gmail.com
+ + Email: cyphe371@gmail.com
 
 ## My website and projects
  + [Cyphe Mercury](http://cyphemercury.online) `// Currently just an old failed project please ignore for now`
