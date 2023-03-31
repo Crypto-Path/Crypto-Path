@@ -14,6 +14,7 @@
 
 ## Projects
 The boxes are just if I'm working on them or worked on it until a playable state with all the main features
+ + [ ] Fire Fragment Online (FFO) `//An Open-World Fantasy FPSMMORPG like the game shown is SAO S2, "GGO"`
  + [ ] Morania `// A 2d top down open world mmorpg with a dark souls like combat system`
    + [ ] Project Noroi `// A extension of Morania where players can create their own custom (Very customizable) magic spells that can be customized however the player wants. Did I mention that the spells can be very customizable.`
  + [x] [Prosody](https://github.com/Crypto-Path/Aria-Engine-Prosody) `// A 4k web rhythm that other can upload maps to and have accounts similar to osu!mania`
