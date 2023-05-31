@@ -9,7 +9,7 @@
  + Email: cyphe371@gmail.com
 
 ## My website and projects
- + [Cyphe Mercury](http://cyphemercury.online) `// Currently just an old failed project please ignore for now`
+ + [Cyphe Mercury](http://cyphemercury.online) `// My main site if you want to know more about me`
  + [Prosody](http://cyphemercury.online/Aria-Engine-Prosody/) `// A web rhythm game I'm making`
 
 ## Projects
