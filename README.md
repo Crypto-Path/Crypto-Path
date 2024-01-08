@@ -1,6 +1,6 @@
 # About me:
  + He/Him
- + 17 years old
+ + 18 years old
  + Currently just trying to improve me coding abilities in: C#, HTML/CSS/JS, Python, and others
  + Looking for friends who enjoy coding to work on a project with
 
